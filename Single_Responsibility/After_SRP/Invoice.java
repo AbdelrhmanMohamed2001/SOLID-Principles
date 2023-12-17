@@ -21,14 +21,5 @@ public class Invoice {
         return priceWithTaxes;
     }
 
-    public void printInvoice() {
-        System.out.println(quantity + "x " + book.name + " " +book.price + "$");
-        System.out.println("Discount Rate: " + discountRate);
-        System.out.println("Tax Rate: " + taxRate);
-        System.out.println("Total: " + total);
-    }
-
-    public void saveToFile(String filename) {
-        // Creates a file with given name and writes the invoice
-    }
+   
 }
