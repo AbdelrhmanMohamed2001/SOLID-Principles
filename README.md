@@ -1,4 +1,4 @@
-## What is SRP ?
+# What is SRP ?
 
 1. SRP is an abbreviation for Single Responsibility Principle.
 
@@ -6,7 +6,7 @@
 
 3. It makes code more readable, maintainable, and easy to change.
 
-## What benefits ?
+# What benefits ?
 
 1. Testing: A class with only one job has fewer test cases.
 
@@ -14,7 +14,7 @@
 
 3. Organization: We will have a well-organized and easier class.
 
-## what about Coupling and Cohesion?
+# what about Coupling and Cohesion?
 
 1. Coupling means the degree of interdependencies between modules.
 
@@ -22,10 +22,10 @@
 
 3. Now that we understand the difference between them, it's better to achieve SRP by applying Decoupling with Cohesion.
 
-## Example :
+# Example :
 
 
-# Before_SRP Folder Violates the Principle:
+## Before_SRP Folder Violates the Principle:
 
    https://github.com/AbdelrhmanMohamed2001/SOLID-Principles/tree/main/Single_Responsibility/Before_SRP
 
@@ -43,7 +43,7 @@
    
 
 
-# After_SRP Folder Adheres to the Principle:
+## After_SRP Folder Adheres to the Principle:
 
    https://github.com/AbdelrhmanMohamed2001/SOLID-Principles/tree/main/Single_Responsibility/After_SRP
 
