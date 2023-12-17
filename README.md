@@ -24,7 +24,8 @@
 
 ## Example :
 
-- Before_SRP Folder Violates the Principle:
+
+# Before_SRP Folder Violates the Principle:
 
    https://github.com/AbdelrhmanMohamed2001/SOLID-Principles/tree/main/Single_Responsibility/Before_SRP
 
@@ -41,7 +42,8 @@
  6. It violates the principle because the Invoice class has three functions, each with a different job (one class with multiple responsibilities).
    
 
-- After_SRP Folder Adheres to the Principle:
+
+# After_SRP Folder Adheres to the Principle:
 
    https://github.com/AbdelrhmanMohamed2001/SOLID-Principles/tree/main/Single_Responsibility/After_SRP
 
