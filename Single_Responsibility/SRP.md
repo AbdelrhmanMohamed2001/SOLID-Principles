@@ -18,7 +18,7 @@
 
 3. Organization: We will have a well-organized and easier class.
 
-# what about Coupling and Cohesion?
+# Difference between Coupling and Cohesion?
 
 1. Coupling means the degree of interdependencies between modules.
 
