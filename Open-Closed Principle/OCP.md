@@ -1,3 +1,7 @@
+![2a3378c6-ebeb-4718-a455-6036f780e177](https://github.com/AbdelrhmanMohamed2001/SOLID-Principles/assets/108559069/5ef20400-5443-4927-964d-92f874a9894a)
+
+
+
 # What is OCP ?
 
 1. OCP stands for the Open-Closed Principle.
