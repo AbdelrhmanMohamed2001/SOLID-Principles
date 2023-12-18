@@ -1,3 +1,7 @@
+![f8dc52d9-5073-4ba8-b12d-e328cdff8125](https://github.com/AbdelrhmanMohamed2001/SOLID-Principles/assets/108559069/997fe569-ee8e-4419-9bf9-24de09c38804)
+
+
+
 # What is LSP ?
 
 1. LSP stands for the Liskov Substitution Principle.
