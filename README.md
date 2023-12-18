@@ -1,4 +1,4 @@
-# What is the meaning of SOLID ?
+# What is the meaning of SOLID Principles ?
 
 ![1_-j-WDZlgOWP1EjvcMSL13w](https://github.com/AbdelrhmanMohamed2001/SOLID-Principles/assets/108559069/175ff8e7-8976-4348-910f-b535af0494d5)
 
