@@ -1,3 +1,7 @@
+![a72ed5f1-d375-43f0-bfa4-a2a0c7cf0efd](https://github.com/AbdelrhmanMohamed2001/SOLID-Principles/assets/108559069/83d65b7a-b136-40ec-8293-bb0c0bb14efa)
+
+
+
 # What is ISP?
 
 1. ISP stands for Interface Segregation Principle.
