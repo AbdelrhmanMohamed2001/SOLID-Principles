@@ -1,3 +1,7 @@
+![418c0b3b-8320-43d0-8023-dee9f0c793cc](https://github.com/AbdelrhmanMohamed2001/SOLID-Principles/assets/108559069/736c9b2c-c243-4e37-a7f2-e7820e974974)
+
+
+
 # What is DIP?
 
 1. DIP stands for the Dependency Inversion Principle.
